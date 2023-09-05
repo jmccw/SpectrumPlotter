@@ -1,4 +1,4 @@
-# SpectrumPlotter
+# SpectrumPlotter+
 Author: Jordan Walsh
 
 Description: General use spectrum plotter with fucntion fitting and normalisation tools.
