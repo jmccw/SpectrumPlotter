@@ -1,7 +1,7 @@
 # SpectrumPlotter+
 Author: Jordan Walsh
 
-Description: General use plotters with function fitting and normalisation tools. Used for personal/academic purposes, updated as seen fit.
+Description: General use tools and plotters with function fitting and normalisation tools. Used for personal/academic purposes, updated as seen fit.
 
 V1.0 | Initial release - Carrier temperature extraction.
 
